@@ -1,1 +1,2 @@
 # codecop-test
+error
